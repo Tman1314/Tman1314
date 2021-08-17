@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tman1314
+- 👀 I’m interested in learning Web Development (Front-end, Back-end, or Full-stack).
+- 🌱 I’m currently learning Web Development (Full-stack mostly)
+- 💞️ I’m looking to collaborate on any project that I could put my skills to work on.
+- 📫 How to reach me: Visit my LinkedIn page @ www.linkedin.com/in/tmills-webdev
